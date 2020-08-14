@@ -8,13 +8,13 @@
 
 - **Team Name**:
 
-- **Team Members**:   _Mention their Names & tag their GitHub handles_
+- **Team ID**:   
 
-- **Repository Link**:  _Provide us the link to your repository_
+- **Video Link (youtube)**: 
 
 
 ## ✅ Checklist
-**Before you post the issue**:
+
 
 - [ ] You have followed the issue title format.
 - [ ] You have uploaded your repository link.
