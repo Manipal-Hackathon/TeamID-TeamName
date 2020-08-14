@@ -13,11 +13,14 @@
 - **Video Link (youtube)**: 
 
 
+
+
 ## ✅ Checklist
 
+Make sure you have completed all of the following actions :
 
-- [ ] You have followed the issue title format.
-- [ ] You have uploaded your repository link.
-- [ ] You have mentioned the correct label.
-- [ ] You have provided the team details correctly.
+- [ X] You have provided the team details correctly.
+- [ X] You have followed the format.
+- [ X] You have uploaded your ppt.
+- [X ] You have provided the workingyoutube link.
 
