@@ -19,8 +19,8 @@
 
 Make sure you have completed all of the following actions :
 
-- [ X] You have provided the team details correctly.
-- [ X] You have followed the format.
-- [ X] You have uploaded your ppt.
-- [X ] You have provided the workingyoutube link.
+-  You have provided the team details correctly.
+-  You have followed the format.
+-  You have uploaded your ppt.
+-  You have provided the workingyoutube link.
 
