@@ -2,7 +2,7 @@
 
 ## ℹ️ Team Details
 
--Please complete all applicable._
+- _Please complete all applicable._
 
 - **Problem Statement**:
 
