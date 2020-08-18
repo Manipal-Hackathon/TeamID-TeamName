@@ -2,7 +2,7 @@
 
 ## ℹ️ Team Details
 
-- _Please complete all applicable._
+ _Please complete all applicable._
 
 - **Problem Statement**:
 
@@ -17,7 +17,7 @@
 
 ## ✅ Checklist
 
-Make sure you have completed all of the following actions :
+_Make sure you have completed all of the following actions_ :
 
 -  You have provided the team details correctly.
 -  You have followed the format.
