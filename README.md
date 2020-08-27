@@ -22,5 +22,6 @@ _Make sure you have completed all of the following actions_ :
 -  You have provided the team details correctly.
 -  You have followed the format.
 -  You have uploaded your ppt.
--  You have provided the workingyoutube link.
+-  Your ppt is Read Only and is **not** password protected.
+-  You have provided the working youtube link.
 
